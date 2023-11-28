@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://rocodeodato.github.io/preloaderJs/logo_sem_fundo_video.gif';
+svgImage.src = 'https://xvx3-bpuh-nxxl.n7c.xano.io/vault/-WYxXyI8/NxrAmsb-iTmj8wqwfL6NwRPY0rg/ME_VGw../logo_sem_fundo_video.gif';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
