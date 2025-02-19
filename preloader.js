@@ -18,7 +18,7 @@ overlay.style.cssText = `
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
 //svgImage.src = 'https://xvx3-bpuh-nxxl.n7c.xano.io/vault/-WYxXyI8/NxrAmsb-iTmj8wqwfL6NwRPY0rg/ME_VGw../logo_sem_fundo_video.gif';
-svgImage.src = 'https://apiv2.agile4pay.com/vault/CHUtpF7M/hQMVVcaJT1usnojlFV3y-BRbcVo/TDIpVQ../preloader.gif';
+svgImage.src = 'https://api.yeezipay.com/vault/UvaVRDs_/TW1StiX6WX8CRZwPp-INiFvAkAk/aWT1mg../preloading.gif';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
