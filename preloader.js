@@ -11,7 +11,8 @@ overlay.style.cssText = `
     width: 100%;
     height: 100%;
     //background-color: rgba(255, 255, 255, 0.7);
-    background-color: rgba(0, 155, 90, 1);
+    //background-color: rgba(0, 155, 90, 1);
+    background-color: rgba(120, 253, 253, 1);
     z-index: 999;
 `;
 
