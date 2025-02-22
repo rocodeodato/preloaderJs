@@ -19,7 +19,7 @@ overlay.style.cssText = `
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
 //svgImage.src = 'https://xvx3-bpuh-nxxl.n7c.xano.io/vault/-WYxXyI8/NxrAmsb-iTmj8wqwfL6NwRPY0rg/ME_VGw../logo_sem_fundo_video.gif';
-svgImage.src = 'https://api.yeezipay.com/vault/UvaVRDs_/TW1StiX6WX8CRZwPp-INiFvAkAk/aWT1mg../preloading.gif';
+svgImage.src = 'https://api.yeezipay.com/vault/UvaVRDs_/2y2Cka71mgWLGFqrUTqjxSZ7mEA/EwcoNw../preloading.gif';
 svgImage.style.cssText = `
     //max-width: 100%;
     max-width: 400px;
